@@ -1,8 +1,8 @@
 {
   "id": "CoC7th-KR",
-  "title": "Rutz's CoC 한국어 번역 [NEW]",
+  "title": "Rutz's CoC Korean 한국어 번역",
   "description": "<p>CoC 한글번역</p>",
-  "version": "0.1.1",
+  "version": "1.2.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
