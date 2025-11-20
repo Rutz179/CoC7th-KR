@@ -1,0 +1,101 @@
+{
+  "label": "공포증과 광증",
+  "mapping": {},
+  "entries": {
+        
+"Xenophobia": {
+      "name": "외국인 혐오증",
+      "description": "<p>낯선 사람이나 외국인에 대한 두려움</p>"
+    },
+"Bibliophobia": {
+      "name": "도서 공포증",
+      "description": "<p>책에 대한 두려움</p>"
+},
+"Pyrophobia": {
+      "name": "불공포증",
+      "description": "<p>불에 대한 공포</p>"
+    },
+"Eisoptrophobia": {
+      "name": "거울 공포증",
+      "description": "<p>거울에 대한 공포</p>"
+    },
+"Algomania": {
+      "name": "통증집착증",
+      "description": "<p>통증에 대한 집착</p>"
+    },
+    
+"Necrophobia": {
+      "name": "죽음 공포증",
+      "description": "<p>죽은 것에 대한 공포</p>"
+    },
+    
+"Klazomania": {
+      "name": "클라조마니아",
+      "description": "<p>비이성적인 외침 충동</p>"
+    },
+    
+"Agathomania": {
+      "name": "과도한 친절함",
+      "description": "<p>병적인 친절함</p>"
+    },
+    
+"Amenomania": {
+      "name": "과도한 명랑함",
+      "description": "<p>비이성적인 명랑함</p>"
+    },
+    
+"Hemaphobia": {
+      "name": "피 공포증",
+      "description": "<p>피에 대한 공포</p>"
+    },
+    
+"Bibliokleptomania": {
+      "name": "독서광증",
+      "description": "<p>책을 훔치는 강박증</p>"
+    },
+    
+"Pseudomania": {
+      "name": "거짓말 강박증",
+      "description": "<p>이성적이지 않은 거짓말 강박증</p>"
+    },
+    
+"Acrophobia": {
+      "name": "고소공포증",
+      "description": "<p>높은 곳을 두려워하는 증상</p>"
+    },
+"Arachnophobia": {
+      "name": "거미공포증",
+      "description": "<p>거미를 두려워하는 증상</p>"
+    
+},
+"Dikemania": {
+      "name": "정의광(正義狂)",
+      "description": "<p>정의가 실현되기를 강박적으로 바라는 마음</p>"
+    },
+    
+"Geliomania": {
+      "name": "웃음강박",
+      "description": "<p>통제할 수 없는 웃음 강박</p>"
+    },
+    
+"Nosomania": {
+      "name": "질병망상",
+      "description": "<p>상상 속 질병에 걸렸다는 망상</p>"
+    },
+    
+"Kleptomania": {
+      "name": "절도증",
+      "description": "<p>도둑질에 대한 비이성적 강박</p>"
+    },
+    
+"Telephonophobia": {
+      "name": "전화공포증",
+      "description": "<p>전화기에 대한 공포</p>"
+    },
+    
+"Odontophobia": {
+      "name": "치아공포증",
+      "description": "<p>치아에 대한 공포</p>"
+    }
+  }
+}

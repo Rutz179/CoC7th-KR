@@ -1,0 +1,96 @@
+{
+  "id": "CoC7th-KR",
+  "title": "Rutz's CoC 한국어 번역 [NEW]",
+  "description": "<p>CoC 한글번역</p>",
+  "version": "0.1.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "packs": [
+    {
+      "name": "CoC_Journal",
+      "label": "저널",
+      "path": "packs/CoC_Journal",
+      "type": "JournalEntry",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "CoC_Actor",
+      "label": "액터",
+      "path": "packs/CoC_Actor",
+      "type": "Actor",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "CoC_Rolltable",
+      "label": "롤 테이블",
+      "path": "packs/CoC_Rolltable",
+      "type": "RollTable",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "CoC_Item",
+      "label": "아이템",
+      "path": "packs/CoC_Item",
+      "type": "Item",
+      "system": "CoC7",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "CoC_Macro",
+      "label": "매크로",
+      "path": "packs/CoC_Macro",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "CoC7"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Rutz (rutz179)",
+      "discord": ".ruttz",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "babele.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+
+  "url": "https://github.com/Rutz179/",
+  "manifest": "https://github.com/Rutz179",
+  "download": "https://github.com/Rutz179",
+  "flags": {}
+}

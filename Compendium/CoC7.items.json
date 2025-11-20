@@ -1,0 +1,34 @@
+{
+  "label": "아이템",
+  "mapping": {},
+  "entries": {
+    "Punch": {
+      "name": "Punch"
+    },
+    "1920's Setup Example": {
+      "name": "1920's Setup Example",
+      "description": "<p>Default setup for 1920's character.</p>"
+    },
+    "Street Vendor": {
+      "name": "Street Vendor",
+      "description": "<p>Also commonly known as “hawkers” and “peddlers,” street vendors travel around, usually with a handcart or trolley, selling small things to passersby, such as hand-crafted objects, food and snacks, or other inexpensive items. They are known for shouting out or otherwise vocalizing their wares to attract customers, as well as their turn of phrase or banter to up-sell and enhance sales.</p><p>Being on the street all day means they get to know different localities, the comings and goings of residents, and are a magnet for collecting—or starting—gossip.</p><p><strong>Suggested Contacts:</strong> other vendors, local law enforcement, trade suppliers, butlers and other household staff.</p>"
+    },
+    "Talent 2": {
+      "name": "Talent 2"
+    },
+    "Peacemaker": {
+      "name": "Peacemaker",
+      "description": "<p>A problem solver who possesses a natural ability to find or see the “eye of the storm” and see an issue from all sides. Motivated by harmony, the peacemaker seeks to maintain the balance, be it between individuals or groups of people, and preserve the status quo. They aim to bring solutions and can be very adaptable, although sometimes to their own detriment as they can put everyone else ahead of their own needs. While often described as “easy going” or a “push over,” they can be steadfast, level-headed, and bold, especially when a crisis strikes.</p>"
+    },
+    "Experimental weapon": {
+      "name": "Experimental weapon",
+      "description": "<p>Description of the weapon</p><p>selecting 'Area of effect' will enable 3 different damage and range</p><p>selecting 'Full-auto' will allow 2 different skills to be selected for the weapon</p><p>selecting 'Special' will activate the special input field</p><p>In the combat tab, if the icons are with a red background, it means that no skill have been selected for that weapon</p><p>Edit the weapon and select the correct skill.</p>"
+    },
+    "Talent 1": {
+      "name": "Talent 1"
+    },
+    "Death ray (prototype)": {
+      "name": "Death ray (prototype)"
+    }
+  }
+}

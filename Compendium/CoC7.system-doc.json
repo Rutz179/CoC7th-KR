@@ -1,0 +1,24 @@
+{
+  "label": "시스템 메뉴얼",
+  "mapping": {},
+  "entries": {
+    "La Llamada de Cthulhu 7ª Edición [es]": {
+      "name": "La Llamada de Cthulhu 7ª Edición [es]"
+    },
+    "新クトゥルフ神話TRPG [ja]": {
+      "name": "新クトゥルフ神話TRPG [ja]"
+    },
+    "Поклик Ктулху: 7 Видання [uk]": {
+      "name": "Поклик Ктулху: 7 Видання [uk]"
+    },
+    "Cthulhu 7. Edition [de]": {
+      "name": "Cthulhu 7. Edition [de]"
+    },
+    "Call of Cthulhu 7th Edition [en]": {
+      "name": "Call of Cthulhu 7th Edition [en]"
+    },
+    "L'Appel de Cthulhu version 7 [fr]": {
+      "name": "L'Appel de Cthulhu version 7 [fr]"
+    }
+  }
+}
