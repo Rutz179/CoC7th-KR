@@ -1,0 +1,138 @@
+{
+  "label": "무기들",
+  "mapping": {},
+  "entries": {
+    "Vickers .303": {
+      "name": "비커스 .303"
+    },
+    ".25 Derringer (1B)": {
+      "name": ".25 데린저  (1B)"
+    },
+    "Knife, Medium": {
+      "name": "중형 나이프"
+    },
+    "Shuriken": {
+      "name": "수리검"
+    },
+    ".30-06 Bolt-Action Rifle": {
+      "name": ".30-06 볼트 액션 소총"
+    },
+    "12-gauge Shotgun (semi-auto)": {
+      "name": "12게이지 산탄총 (반자동)"
+    },
+    ".45 Martini-Henry Rifle": {
+      "name": ".45 마티니-헨리 소총"
+    },
+    ".45 Automatic": {
+      "name": ".45 자동권총"
+    },
+    "Mark I Lewis Gun": {
+      "name": "마크 I 루이스 기관총"
+    },
+    "Browning Auto Rifle M1918": {
+      "name": "브라우닝 자동소총 M1918"
+    },
+    "12-gauge Shotgun (2B)": {
+      "name": "12게이지 산탄총 (2B)"
+    },
+    "Bow": {
+      "name": "활"
+    },
+    "Bullwhip": {
+      "name": "채찍”"
+    },
+    "Thompson": {
+      "name": "톰슨"
+    },
+    ".45 Revolver": {
+      "name": ".45 리볼버"
+    },
+    "Hatchet/Sickle": {
+      "name": "도끼/낫"
+    },
+    "Col. Moran's Air Rifle": {
+      "name": "모란 대령의 공기 소총"
+    },
+    "Bren Gun": {
+      "name": "브렌 건"
+    },
+    "Nunchaku": {
+      "name": "쌍절곤"
+    },
+    "Rock, Thrown": {
+      "name": "돌, 투척용"
+    },
+    "Model P08 Luger": {
+      "name": "P08 루거"
+    },
+    "Garrote": {
+      "name": "가롯테"
+    },
+    ".22 Short Automatic": {
+      "name": ".22 자동권총"
+    },
+    "16-gauge Shotgun (2B)": {
+      "name": "16게이지 산탄총 (2B)"
+    },
+    "Elephant Gun (2B)": {
+      "name": "코끼리 사냥용 총 (2B)"
+    },
+    ".32 or 7.65mm Automatic": {
+      "name": ".32 또는 7.65mm 자동권총"
+    },
+    "20-gauge Shotgun (2B)": {
+      "name": "20게이지 산탄총 (2B)"
+    },
+    "Club, Small": {
+      "name": "소형 곤봉"
+    },
+    ".303 Lee-Enfield": {
+      "name": ".303 리엔필드"
+    },
+    "Bergmann MP181/MP2811": {
+      "name": "베르크만  MP181/MP2811"
+    },
+    ".32 or 7.65mm Revolver": {
+      "name": ".32 또는 7.65mm 리볼버"
+    },
+    "Burning Torch": {
+      "name": "불타는 횃불"
+    },
+    "Crossbow": {
+      "name": "석궁"
+    },
+    "Spear, Thrown": {
+      "name": "창, 투척용"
+    },
+    "Blackjack": {
+      "name": "블랙잭"
+    },
+    "12-gauge Shotgun (2B sawed off)": {
+      "name": "12게이지 샷건 (소드오프)"
+    },
+    ".30 Lever-Action Carbine": {
+      "name": ".30 레버 액션 카빈"
+    },
+    "Knife, Large": {
+      "name": "대형 나이프"
+    },
+    ".22 Bolt-Action Rifle": {
+      "name": ".22 볼트 액션 소총"
+    },
+    "Knife, Small": {
+      "name": "소형 나이프"
+    },
+    "Club, Large": {
+      "name": "대형 몽둥이"
+    },
+    "Brass Knuckles": {
+      "name": "브라스 너클"
+    },
+    "Spear": {
+      "name": "창"
+    },
+    ".30 Browning M1917A1": {
+      "name": ".30 브라우닝 M1917A1"
+    }
+  }
+}

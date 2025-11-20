@@ -1,0 +1,528 @@
+{
+	"label": "기능",
+	"mapping": {
+			"skillname": "system.skillName",
+			"specialization": "system.specialization"
+	},
+	"entries": {
+		"Accounting": {
+			"name": "회계",
+			"skillname": "회계",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Animal Handling": {
+			"name": "동물 다루기",
+			"skillname": "동물 다루기",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Anthropology": {
+			"name": "인류학",
+			"skillname": "인류학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Appraise": {
+			"name": "감정",
+			"skillname": "감정",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Archaeology": {
+			"name": "고고학",
+			"skillname": "고고학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Art/Craft (Acting)": {
+			"name": "예술/공예 (연기)",
+			"specialization": "예술/공예",
+			"skillname": "예술/공예 (연기)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Art/Craft (Any)": {
+			"name": "예술/공예 (다양)",
+			"skillname": "예술/공예 (다양)",
+			"specialization": "예술/공예",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Art/Craft (Fine Art)": {
+			"name": "예술/공예 (미술)",
+			"specialization": "예술/공예",
+			"skillname": "예술/공예 (미술)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Art/Craft (Forgery)": {
+			"name": "예술/공예 (위조)",
+			"specialization": "예술/공예",
+			"skillname": "예술/공예 (위조)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Art/Craft (Photography)": {
+			"name": "예술/공예 (사진)",
+			"specialization": "예술/공예",
+			"skillname": "예술/공예 (사진)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Charm": {
+			"name": "매혹",
+			"skillname": "매혹",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Civics": {
+			"name": "일반사회",
+			"skillname": "일반사회",
+			"description": "<p>크툴루 인빅터스 참조</p>"
+		},
+		"Climb": {
+			"name": "오르기",
+			"skillname": "오르기",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Computer Use": {
+			"name": "컴퓨터 사용",
+			"skillname": "컴퓨터 사용",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Credit Rating": {
+			"name": "재력",
+			"skillname": "재력",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Cthulhu Mythos": {
+			"name": "크툴루 신화",
+			"skillname": "크툴루 신화",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Demolitions": {
+			"name": "폭파",
+			"skillname": "폭파",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Disguise": {
+			"name": "변장",
+			"skillname": "변장",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Diving": {
+			"name": "잠수",
+			"skillname": "잠수",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Dodge": {
+			"name": "회피",
+			"skillname": "회피",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Drive Auto": {
+			"name": "자동차 운전",
+			"skillname": "자동차 운전",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Drive Carriage": {
+			"name": "마차 운전",
+			"skillname": "마차 운전",
+			"description": "<p>가스등의 크툴루 참조</p>"
+		},
+		"Drive Horse / Oxen": {
+			"name": "말/소 운전",
+			"skillname": "말/소 운전",
+			"description": "<p>크툴루 인빅터스 참조</p>"
+		},
+		"Drive Wagon / Coach": {
+			"name": "수레/버스 운전",
+			"skillname": "수레/버스 운전",
+			"description": "<p>더 어두운 오솔길로 참조</p>"
+		},
+		"Electrical Repair": {
+			"name": "전기 수리",
+			"skillname": "전기 수리",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Electronics": {
+			"name": "전자기기",
+			"skillname": "전자기기",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Empire": {
+			"name": "제국",
+			"skillname": "제국",
+			"description": "<p>크툴루 인빅터스 참조</p>"
+		},
+		"Fast Talk": {
+			"name": "말재주",
+			"skillname": "말재주",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Axe)": {
+			"name": "근접전 (도끼)",
+			"specialization": "근접전",
+			"skillname": "근접전 (도끼)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Brawl)": {
+			"name": "근접전 (격투)",
+			"specialization": "근접전",
+			"skillname": "근접전 (격투)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Chainsaw)": {
+			"name": "근접전 (동력톱)",
+			"specialization": "근접전",
+			"skillname": "근접전 (동력톱)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Flail)": {
+			"name": "근접전 (도리깨)",
+			"specialization": "근접전",
+			"skillname": "근접전 (도리깨)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Garrote)": {
+			"name": "근접전 (가롯테)",
+			"specialization": "근접전",
+			"skillname": "근접전 (가롯테)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Spear)": {
+			"name": "근접전 (창)",
+			"specialization": "근접전",
+			"skillname": "근접전 (창)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Sword)": {
+			"name": "근접전 (도검)",
+			"specialization": "근접전",
+			"skillname": "근접전 (도검)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Throw)": {
+			"name": "근접전 (투척)",
+			"specialization": "근접전",
+			"skillname": "근접전 (투척)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Fighting (Whip)": {
+			"name": "근접전 (채찍)",
+			"specialization": "근접전",
+			"skillname": "근접전 (채찍)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Firearms (Artillery)": {
+			"name": "사격 (포격)",
+			"specialization": "사격",
+			"skillname": "사격 (포격)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Firearms (Bow)": {
+			"name": "사격 (활)",
+			"specialization": "사격",
+			"skillname": "사격 (활)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Firearms (Flamethrower)": {
+			"name": "사격 (화염방사기)",
+			"specialization": "사격",
+			"skillname": "사격 (화염방사기)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Firearms (Handgun)": {
+			"name": "사격 (권총)",
+			"specialization": "사격",
+			"skillname": "사격 (권총)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Firearms (Heavy Weapons)": {
+			"name": "사격 (중화기)",
+			"specialization": "사격",
+			"skillname": "사격 (중화기)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Firearms (Machine Gun)": {
+			"name": "사격 (기관단총)",
+			"specialization": "사격",
+			"skillname": "사격 (기관단총)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Firearms (Rifle/Shotgun)": {
+			"name": "사격 (라이플/산탄총)",
+			"specialization": "사격",
+			"skillname": "사격 (라이플/산탄총)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Firearms (Submachine Gun)": {
+			"name": "사격 (기관단총)",
+			"specialization": "사격",
+			"skillname": "사격 (기관단총)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"First Aid": {
+			"name": "응급처치",
+			"skillname": "응급처치",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Gambling": {
+			"name": "도박",
+			"skillname": "도박",
+			"description": "<p>더 어두운 오솔길로 참조</p>"
+		},
+		"History": {
+			"name": "역사",
+			"skillname": "역사",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Hypnosis": {
+			"name": "최면술",
+			"skillname": "최면술",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Intimidate": {
+			"name": "위협",
+			"skillname": "위협",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Jump": {
+			"name": "도약",
+			"skillname": "도약",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Language (Any)": {
+			"name": "언어 (다양)",
+			"specialization": "언어",
+			"skillname": "언어 (다양)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Language (Other)": {
+			"name": "언어 (외국어)",
+			"specialization": "언어",
+			"skillname": "언어 (외국어)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Language (Own)": {
+			"name": "언어 (모국어)",
+			"specialization": "언어",
+			"skillname": "언어 (모국어)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Law": {
+			"name": "법률",
+			"skillname": "법률",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Library Use": {
+			"name": "자료 조사",
+			"skillname": "자료 조사",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Listen": {
+			"name": "듣기",
+			"skillname": "듣기",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Locksmith": {
+			"name": "열쇠공",
+			"skillname": "열쇠공",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Lore (Any)": {
+			"name": "비밀 지식 (다양)",
+			"skillname": "비밀 지식 (다양)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Mechanical Repair": {
+			"name": "기계 수리",
+			"skillname": "기계 수리",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Medicine": {
+			"name": "의료",
+			"skillname": "의료",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Meteorology": {
+			"name": "기상학",
+			"specialization": "과학",
+			"skillname": "기상학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Natural World": {
+			"name": "자연",
+			"skillname": "자연",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Navigate": {
+			"name": "항법",
+			"skillname": "항법",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Occult": {
+			"name": "오컬트",
+			"skillname": "오컬트",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Operate Heavy Machinery": {
+			"name": "중장비 조작",
+			"skillname": "중장비 조작",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Persuade": {
+			"name": "설득",
+			"skillname": "설득",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Pilot (Any)": {
+			"name": "조종 (다양)",
+			"specialization": "조종",
+			"skillname": "조종 (다양)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Psychoanalysis": {
+			"name": "정신분석",
+			"skillname": "정신분석",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Psychology": {
+			"name": "심리학",
+			"skillname": "심리학",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Read Lips": {
+			"name": "독순술",
+			"skillname": "독순술",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Ride": {
+			"name": "승마",
+			"skillname": "승마",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Rope Use": {
+			"name": "밧줄 쓰기",
+			"skillname": "밧줄 쓰기",
+			"description": "<p>더 어두운 오솔길로 참조</p>"
+		},
+		"Science (Any)": {
+			"name": "과학 (다양)",
+			"specialization": "과학",
+			"skillname": "과학 (다양)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Astronomy)": {
+			"name": "과학 (천문학)",
+			"specialization": "과학",
+			"skillname": "과학 (천문학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Biology)": {
+			"name": "과학 (생물학)",
+			"specialization": "과학",
+			"skillname": "과학 (생물학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Botany)": {
+			"name": "과학 (식물학)",
+			"specialization": "과학",
+			"skillname": "과학 (식물학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Chemistry)": {
+			"name": "과학 (화학)",
+			"specialization": "과학",
+			"skillname": "과학 (화학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Cryptography)": {
+			"name": "과학 (암호학)",
+			"specialization": "과학",
+			"skillname": "과학 (암호학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Engineering)": {
+			"name": "과학 (공학)",
+			"specialization": "과학",
+			"skillname": "과학 (공학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Forensics)": {
+			"name": "과학 (수사과학)",
+			"specialization": "과학",
+			"skillname": "과학 (수사과학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Geology)": {
+			"name": "과학 (지질학)",
+			"specialization": "과학",
+			"skillname": "과학 (지질학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Mathematics)": {
+			"name": "과학 (수학)",
+			"specialization": "과학",
+			"skillname": "과학 (수학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Meteorology)": {
+			"name": "과학 (기상학)",
+			"specialization": "과학",
+			"skillname": "과학 (기상학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Pharmacy)": {
+			"name": "과학 (약학)",
+			"specialization": "과학",
+			"skillname": "과학 (약학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Physics)": {
+			"name": "과학 (물리학)",
+			"specialization": "과학",
+			"skillname": "과학 (물리학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Science (Zoology)": {
+			"name": "과학 (동물학)",
+			"specialization": "과학",
+			"skillname": "과학 (동물학)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Sleight of Hand": {
+			"name": "손놀림",
+			"skillname": "손놀림",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Spot Hidden": {
+			"name": "관찰력",
+			"skillname": "관찰력",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Stealth": {
+			"name": "은밀행동",
+			"skillname": "은밀행동",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Survival (Any)": {
+			"name": "생존술 (다양)",
+			"specialization": "생존술",
+			"skillname": "생존술 (다양)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Swim": {
+			"name": "수영",
+			"skillname": "수영",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Track": {
+			"name": "추적",
+			"skillname": "추적",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Track (Any)": {
+			"name": "추적 (다양)",
+			"specialization": "추적",
+			"skillname": "추적 (다양)",
+			"description": "<p>크툴루의 부름 수호자 룰북 참조</p>"
+		},
+		"Trap": {
+			"name": "함정",
+			"skillname": "함정",
+			"description": "<p>더 어두운 오솔길로 참조</p>"
+		}
+
+	}
+}

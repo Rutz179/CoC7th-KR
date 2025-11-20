@@ -1,0 +1,21 @@
+{
+  "label": "예시",
+  "mapping": {},
+  "entries": {
+    "Villain example": {
+      "name": "Villain example"
+    },
+    "1920 Character": {
+      "name": "1920 Character"
+    },
+    "Goon": {
+      "name": "Goon"
+    },
+    "Creature example": {
+      "name": "Creature example"
+    },
+    "Cupboard": {
+      "name": "Cupboard"
+    }
+  }
+}

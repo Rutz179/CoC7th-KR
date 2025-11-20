@@ -1,0 +1,262 @@
+{
+  "label": "롤 테이블",
+  "mapping": {},
+  "entries": {
+    "Bouts of Madness Table (Realtime)": {
+      "name": "광기 테이블 (실시간)",
+      "description": "",
+      "results": [
+        {
+          "type": "text",
+          "_id": "3Pd4WXl37ZeU1i8e",
+          "range": [
+            1,
+            1
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>기억상실</strong>: 조사자는 마지막으로 안전한 장소에 있었던 이후 발생한 사건들에 대한 기억이 전혀 없습니다. 마치 아침 식사를 하던 순간이 있었는데, 다음 순간 괴물을 마주하게 된 것처럼 느껴집니다. 이 상태는 [[/r 1D10]] 라운드 동안 지속됩니다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "z16tJQGOk23wTa4C",
+          "range": [
+            2,
+            2
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>심리적 장애</strong>: 조사자는 [[/r 1D10]] 라운드 동안 심리적 실명, 난청 또는 사지 기능 상실을 겪습니다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "PiYnF6Q6j0NSku4J",
+          "range": [
+            3,
+            3
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>폭력</strong>: 분노의 붉은 안개가 피해 조사자에게 내려앉으며, 그들은 [[/r 1D10]] 라운드 동안 주변 환경과 아군, 적군을 가리지 않고 통제 불능의 폭력과 파괴 행각을 벌인다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "k8DF46MatH1DqSfQ",
+          "range": [
+            4,
+            4
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>편집증</strong>: 조사자는 [[/r 1D10]] 라운드 동안 심각한 편집증에 시달립니다. 모두가 자신을 해치려 한다! 믿을 수 있는 사람은 아무도 없다! 누군가 자신을 감시하고 있다; 누군가 자신을 배신했다; 자신이 보는 것은 속임수다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "PWPkEfuNpDpH2UkB",
+          "range": [
+            5,
+            5
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>중요한 인물</strong>: 조사자의 배경 이야기 항목 중 '중요한 인물'을 검토하십시오. 조사자가 현장에 있는 다른 인물을 자신의 중요한 인물로 오인합니다. 관계의 본질을 고려하십시오; 조사자는 이에 따라 행동합니다. 이 상태는 [[/r 1D10]] 라운드 동안 지속됩니다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "CBfZFFk02UMShx3O",
+          "range": [
+            6,
+            6
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>기절</strong>: 조사자가 기절하며, [[/r 1D10]] 라운드 후에 회복합니다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "GrvFqNbCGz0kZbPU",
+          "range": [
+            7,
+            7
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>공황 상태로 도주</strong>: 조사자는 가능한 모든 수단을 동원해 최대한 멀리 도망가야 한다. 유일한 탈것을 타고 다른 모든 사람을 남겨두고 떠나야 하는 상황이라도 마찬가지다. 그들은 [[/r 1D10]] 라운드 동안 도주한다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "8PxA7GKmozxJJGil",
+          "range": [
+            8,
+            8
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>신체적 히스테리 또는 감정적 폭발</strong>: 조사자는 [[/r 1D10]] 라운드 동안 웃음, 울음, 비명 등으로 인해 행동 불능 상태가 된다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "UNWdb4jUKAl1MX3K",
+          "range": [
+            9,
+            9
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>공포증</strong>: 조사자는 새로운 공포증을 얻습니다. 예를 들어 밀실공포증(좁은 공간에 대한 공포), 악령 공포증(영혼이나 데몬에 대한 공포), 바퀴벌레 공포증(바퀴벌레에 대한 공포) 등이 있습니다. 공포의 원인이 존재하지 않더라도, 조사자는 다음 [[/r 1D10]] 라운드 동안 그 대상이 존재한다고 상상하게 되며, 공포가 지속되는 동안 모든 행동에 불이익 주사위가 적용됩니다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        },
+        {
+          "type": "text",
+          "_id": "VVGYNWTUqF2pPdXo",
+          "range": [
+            10,
+            10
+          ],
+          "_stats": {
+            "coreVersion": "13.348",
+            "systemId": null,
+            "systemVersion": null,
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null,
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null
+          },
+          "description": "<strong>광기</strong>: 조사자는 새로운 광기를 얻는다. 예를 들어, 세정광(자신을 씻어야 한다는 강박), 거짓말광(거짓말을 해야 한다는 비이성적 강박), 또는 기생충광(벌레에 대한 과도한 집착) 등이 있다. 조사자는 다음 [[/r 1D10]] 라운드 동안 이 새로운 광기에 빠져들려 하며, 발작이 지속되는 동안 모든 행동에 불이익 주사위가 적용된다.",
+          "name": "",
+          "img": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {}
+        }
+      ]
+    }
+  }
+}

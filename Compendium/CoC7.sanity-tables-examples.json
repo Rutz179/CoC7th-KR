@@ -1,0 +1,18 @@
+{
+  "label": "이성 굴림 테이블",
+  "mapping": {},
+  "entries": {
+    "Table IX: Sample Phobias": {
+      "name": "Table IX: 공포증 예시"
+    },
+    "Table VII: Bouts of Madness - Real Time": {
+      "name": "Table VII: 광기 테이블 - 실시간"
+    },
+    "Table VIII: Bouts of Madness - Summary": {
+      "name": "Table VIII: 광기 테이블 - 요약"
+    },
+    "Table X: Sample Manias": {
+      "name": "Table X: 광증 예시"
+    }
+  }
+}
