@@ -1,6 +1,6 @@
 // CoC7-KR - Babele registration for Call of Cthulhu 7th
 
-Hooks.once("init", () => {
+Hooks.once("setup", () => {
   // Babele 모듈이 켜져 있는지 확인
   const babeleModule = game.modules.get("babele");
   if (!babeleModule || !babeleModule.active) {
